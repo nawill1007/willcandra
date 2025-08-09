@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", function () {
     {
       title: "Surai Seraya",
       artist: "STRANGERS",
-      albumArt: "songs/art/surai-seraya.jpEg",
+      albumArt: "songs/art/surai-seraya.jpeg",
       duration: "3:05",
       audioSrc: "songs/song/STRANGERS - Surai Seraya.mp3",
     },
@@ -325,3 +325,4 @@ document.addEventListener("DOMContentLoaded", function () {
   window.addEventListener("scroll", animateOnScroll);
   animateOnScroll(); // Run once on load
 });
+
